@@ -38,5 +38,5 @@ So far we have completed the installation of maven software to support maven plu
   - `Manage Jenkins` > `Jenkins Plugins` > `available` > `Maven Integration`
 
 2. Configure maven path
-  - `Manage Jenkins` > `Global Tool Configuration` > `Maven`
+  - `Manage Jenkins` > `Global Tool Configuration` > `Maven` -> Name: `M2_HOME` - MAVEN_HOME: `/opt/maven`
 
